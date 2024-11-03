@@ -15,4 +15,3 @@ Pattif	 $4,511,840
 Pradeepg	 $94,884 
 Kevstrat	$35,015
 Faraz       999999
-Ahmed       500000
